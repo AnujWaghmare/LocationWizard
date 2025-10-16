@@ -155,38 +155,6 @@ This application is designed to work with NavIC (Navigation with Indian Constell
 - **Bhuvan Portal**: https://bhuvan.nrsc.gov.in/
 - **NavIC System**: https://www.isro.gov.in/navic-programme
 
-## 📄 License
-
-This project uses multiple licenses:
-- **Code**: MIT License
-- **SoI Data**: Open Government Data License India
-- **ISRO Data**: Creative Commons Attribution 4.0
-- **Digitized Data**: CC-BY-SA 4.0
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/new-feature`)
-3. Ensure SoI/ISRO data source compliance
-4. Add tests for new functionality
-5. Update documentation
-6. Submit pull request
-
-## 📞 Support
-
-For issues related to:
-- **Application**: Create GitHub issue
-- **SoI Data**: Contact Survey of India
-- **ISRO Data**: Contact respective ISRO portal
-- **NavIC**: Contact ISRO Navigation Programme
-
-## ⚠️ Limitations
-
-- Simplified zone boundaries for demonstration
-- Limited administrative boundary coverage
-- Basic wind speeds (not terrain-adjusted)
-- Broad seismic zone classifications
-- No micro-zonation data included
 
 ## 🔄 Version History
 
