@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Delhi",
+        "STATE": "Delhi",
+        "TYPE": "Union Territory"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [76.8, 28.4], [77.3, 28.4], [77.3, 28.9], [76.8, 28.9], [76.8, 28.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mumbai",
+        "STATE": "Maharashtra",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.7, 18.9], [73.0, 18.9], [73.0, 19.3], [72.7, 19.3], [72.7, 18.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Chennai",
+        "STATE": "Tamil Nadu",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.1, 12.9], [80.4, 12.9], [80.4, 13.2], [80.1, 13.2], [80.1, 12.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kolkata",
+        "STATE": "West Bengal",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.2, 22.4], [88.5, 22.4], [88.5, 22.7], [88.2, 22.7], [88.2, 22.4]
+        ]]
+      }
+    }
+  ]
+}

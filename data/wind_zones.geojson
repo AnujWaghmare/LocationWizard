@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Vb": 50,
+        "region": "Coastal Areas - Very High Wind Speed",
+        "description": "Cyclone prone coastal regions"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [68.0, 6.0], [70.0, 6.0], [70.0, 25.0], [68.0, 25.0], [68.0, 6.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vb": 47,
+        "region": "East Coast - High Wind Speed",
+        "description": "Bay of Bengal coastal areas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [80.0, 8.0], [87.0, 8.0], [87.0, 22.0], [80.0, 22.0], [80.0, 8.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vb": 44,
+        "region": "Interior Plains - Moderate Wind Speed",
+        "description": "Central and northern plains"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [70.0, 20.0], [85.0, 20.0], [85.0, 32.0], [70.0, 32.0], [70.0, 20.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vb": 39,
+        "region": "Hilly Areas - Low Wind Speed",
+        "description": "Mountainous and hilly regions"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.0, 28.0], [80.0, 28.0], [80.0, 37.0], [72.0, 37.0], [72.0, 28.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vb": 33,
+        "region": "Protected Areas - Very Low Wind Speed",
+        "description": "Sheltered valleys and protected areas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [75.0, 30.0], [78.0, 30.0], [78.0, 35.0], [75.0, 35.0], [75.0, 30.0]
+        ]]
+      }
+    }
+  ]
+}

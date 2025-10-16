@@ -1,0 +1,1 @@
+# Location-Based Wind and Seismic Zone Wizard for OsdagBridge
