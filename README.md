@@ -6,7 +6,7 @@ A FOSS-based interactive application for determining seismic zones and wind spee
 
 ```bash
 # Clone and setup
-git clone <repository-url>
+git clone https://github.com/AnujWaghmare/LocationWizard.git
 cd LocationWizard
 
 # Create virtual environment
