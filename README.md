@@ -141,12 +141,6 @@ This application is designed to work with NavIC (Navigation with Indian Constell
 4. Update `core.py` to load new data
 5. Add corresponding unit tests
 
-### Extending Functionality
-- Add new zone types (cyclone, flood, etc.)
-- Implement micro-zonation support
-- Add terrain-adjusted wind speeds
-- Include soil classification data
-
 ## 📖 References
 
 - **IS 1893 (Part 1): 2016** - Criteria for Earthquake Resistant Design
@@ -156,9 +150,9 @@ This application is designed to work with NavIC (Navigation with Indian Constell
 - **NavIC System**: https://www.isro.gov.in/navic-programme
 
 
-## 🔄 Version History
+## 🔄 History
 
-- **v1.0.0**: Initial release with basic functionality
-- **v1.1.0**: Added NavIC integration notes
-- **v1.2.0**: Enhanced data provenance documentation
-- **v1.3.0**: Improved test coverage and validation
+- Initial release with basic functionality
+- Added NavIC integration notes
+- Enhanced data provenance documentation
+- Improved test coverage and validation
